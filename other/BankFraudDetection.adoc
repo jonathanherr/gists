@@ -1,10 +1,9 @@
-= Bank Fraud Detection
+= Community Detection
 :neo4j-version: 2.0.0-RC1
-:author: Kenny Bastani
-:twitter: @kennybastani
-:tags: domain:finance, use-case:fraud-detection
+:author: Jonathan Herr
+:twitter: @monacularian
 
-This interactive Neo4j graph tutorial covers bank fraud detection scenarios.
+This interactive Neo4j graph tutorial covers ...
 
 '''
 
